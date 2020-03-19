@@ -126,7 +126,9 @@ end
 
 AddEventHandler("vRP:playerSpawn",function(user_id,source,first_spawn)
   if first_spawn then
-    build_confisca(source)
+	if user_id ~= nil then
+   	 	build_confisca(source)
+	end
   end
 end)
 
