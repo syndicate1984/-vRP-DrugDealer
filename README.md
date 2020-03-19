@@ -7,13 +7,13 @@
 
 # How to install
 
-# PASTE SCRIPT IN RESOURCES FOLDER
+ PASTE SCRIPT IN RESOURCES FOLDER
 
-# IN SERVER.CFG TYPE START vrp_drug_dealer THEN RESTART vrp_drug_dealer
+ IN SERVER.CFG TYPE START vrp_drug_dealer THEN RESTART vrp_drug_dealer
 
-# Add harvest.weed permission to a group
+ Add harvest.weed permission to a group
 
-# At line 48 u have to edit the item that u need to grow weed
+ At line 48 u have to edit the item that u need to grow weed
 
-# At line 87 and 89 u have to edit the item that u will recive
+ At line 87 and 89 u have to edit the item that u will recive
 
